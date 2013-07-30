@@ -1,0 +1,16 @@
+{
+    "activeConnection": "sm@demo.com",
+    "connections": {
+        "sm@demo.com": {
+            "name": "sm@demo.com",
+            "tables": {
+                "my_new_table15": "my_new_table15",
+                "my_new_table16": "my_new_table16",
+                "Contact": "Contact"
+            }
+        },
+        "sf@demo.com": {
+            "name": "sf@demo.com"
+        }
+    }
+}
