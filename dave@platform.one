@@ -1,32 +1,32 @@
 {
-    "activeConnection": "sf@demo.com",
-    "sf@demo.com": {
+    "activeConnection": "dave@platform.one",
+    "dave@platform.one": {
         "passwordExpired": [
             "false"
         ],
         "serverUrl": [
-            "https://dooder-dev-ed.my.salesforce.com/services/Soap/u/5.0/00Di0000000KpdA"
+            "https://mobile1.t.salesforce.com/services/Soap/u/5.0/00DR00000000MZ6"
         ],
         "sessionId": [
-            "00Di0000000KpdA!ARQAQPluAddFHNRYvWarLBYGZMYWEg1KmzR7d0W0HhBwgsWrp90D8ClOpv908ef9MAENnTCQJbR6gkUIlbB.tB4Pw21rkTwO"
+            "00DR00000000MZ6!AR4AQLhnWNEkj8kMhfqtkKxo8l5pDPj3VCgMWQtuf24WXai53ev19DeH_LZ1FT9aN62VenhtdUYBuQBhAB3IgxICYfyP8AUg"
         ],
         "userId": [
-            "005i0000000NsyKAAS"
+            "005R0000000HfUAIA0"
         ],
-        "name": "sf@demo.com",
+        "name": "dave@platform.one",
         "userInfo": [
             {
                 "currencySymbol": [
                     "$"
                 ],
                 "organizationId": [
-                    "00Di0000000KpdAEAS"
+                    "00DR00000000MZ6MAM"
                 ],
                 "organizationMultiCurrency": [
                     "false"
                 ],
                 "organizationName": [
-                    "salesforce.com"
+                    "Salesforce1 Platform"
                 ],
                 "userDefaultCurrencyIsoCode": [
                     {
@@ -42,7 +42,7 @@
                     "Dave Carroll"
                 ],
                 "userId": [
-                    "005i0000000NsyKAAS"
+                    "005R0000000HfUAIA0"
                 ],
                 "userLanguage": [
                     "en_US"

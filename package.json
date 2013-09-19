@@ -1,0 +1,35 @@
+{
+  "name": "force-cli",
+  "version": "0.0.1",
+  "description": "Command Line Interface for Force.com",
+  "main": "lib/force.js",
+  "dependencies": {
+    "cli-table": "~0.2.0",
+    "commander": "~2.0.0",
+    "express": "~3.3.4",
+    "keypress": "~0.2.1",
+    "mongojs": "~0.7.16",
+    "open": "~0.0.4",
+    "prompt": "~0.2.11",
+    "read": "~1.0.5",
+    "shelljs": "~0.1.4",
+    "underscore": "~1.5.1",
+    "xml2js": "~0.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcarroll/force-commander.git"
+  },
+  "keywords": [
+    "cli",
+    "forcedotcom"
+  ],
+  "author": "Dave Carroll",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "a3897366f5c97528e3e738fa346c3f376b674e3d"
+}

@@ -10,7 +10,14 @@
             }
         },
         "sf@demo.com": {
-            "name": "sf@demo.com"
+            "name": "sf@demo.com",
+            "tables": {
+                "PatPatterson": "PatPatterson"
+            }
+        },
+        "dave@platform.one": {
+            "name": "dave@platform.one",
+            "tables": {}
         }
     }
 }

@@ -1,0 +1,24 @@
+<se:Envelope xmlns:se="http://schemas.xmlsoap.org/soap/envelope/">
+	<se:Header xmlns:sfns="http://soap.sforce.com/2006/04/metadata">
+		<sfns:SessionHeader>
+			<sessionId>
+				00DR00000000MZ6!AR4AQLhnWNEkj8kMhfqtkKxo8l5pDPj3VCgMWQtuf24WXai53ev19DeH_LZ1FT9aN62VenhtdUYBuQBhAB3IgxICYfyP8AUg
+			</sessionId>
+		</sfns:SessionHeader>
+	</se:Header>
+	<se:Body>
+		<create xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:ns1="http://soap.sforce.com/2006/04/metadata">
+			<ns1:metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="QuickAction">
+				<fullName>
+					MyAction
+				</fullName>
+				<type>
+					Create
+				</type>
+				<TargetSobjectType>
+					Account
+				</TargetSobjectType>
+			</ns1:metadata>
+		</create>
+	</se:Body>
+</se:Envelope>
