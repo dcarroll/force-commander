@@ -1,5 +1,5 @@
 {
-    "activeConnection": "sm@demo.com",
+    "activeConnection": "daveify@mailinator.com",
     "connections": {
         "sm@demo.com": {
             "name": "sm@demo.com",
@@ -18,6 +18,9 @@
         "dave@platform.one": {
             "name": "dave@platform.one",
             "tables": {}
+        },
+        "daveify@mailinator.com": {
+            "name": "daveify@mailinator.com"
         }
     }
 }

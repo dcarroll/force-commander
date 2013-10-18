@@ -1,5 +1,5 @@
 {
-  "name": "force-cli",
+  "name": "fcommander",
   "version": "0.0.1",
   "description": "Command Line Interface for Force.com",
   "main": "lib/force.js",
